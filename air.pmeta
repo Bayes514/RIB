@@ -1,0 +1,7 @@
+NO2:numeric
+O3:numeric
+SO2:numeric
+PM2.5:numeric
+CO:numeric
+PM10:numeric
+class:1,2,3,4,5
